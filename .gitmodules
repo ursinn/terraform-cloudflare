@@ -1,0 +1,6 @@
+[submodule "modules/cloudflare-dns"]
+	path = modules/cloudflare-dns
+	url = https://github.com/ursinn/terraform-module-cloudflare-dns.git
+[submodule "modules/cloudflare-firewall"]
+	path = modules/cloudflare-firewall
+	url = https://github.com/ursinn/terraform-module-cloudflare-firewall.git
