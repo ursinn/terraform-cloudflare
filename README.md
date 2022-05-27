@@ -5,5 +5,5 @@
 
 ## License
 
-This project is under the Unlicense License. See the [LICENSE](https://github.com/ursinn/ansible-playbooks/blob/main/LICENSE)
+This project is under the Unlicense License. See the [LICENSE](https://github.com/ursinn/terraform-cloudflare/blob/main/LICENSE)
 file for the full license text.
